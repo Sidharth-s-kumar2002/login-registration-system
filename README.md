@@ -24,6 +24,7 @@ A secure and modern web-based Login and Registration System developed using PHP 
 ## Project Structure
 
 Log in Reg System/
+
 ├── config.php          # Database connection setup
 
 ├── index.php           # Main landing / Login page
