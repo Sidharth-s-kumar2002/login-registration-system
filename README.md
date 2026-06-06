@@ -25,14 +25,21 @@ A secure and modern web-based Login and Registration System developed using PHP 
 
 Log in Reg System/
 ├── config.php          # Database connection setup
+
 ├── index.php           # Main landing / Login page
+
 ├── admin_page.php      # Administrator dashboard (Restricted)
+
 ├── user_page.php       # Standard user dashboard (Restricted)
+
 ├── logout.php          # Session destruction and sign-out logic
+
 ├── style.css           # Styling for forms and dashboards
+
 └── script.js           # Frontend validation and dynamic UI enhancements
 
 ## Author
 
 Sidharth S Kumar
+
 PHP-Laravel Full-stack Developer
