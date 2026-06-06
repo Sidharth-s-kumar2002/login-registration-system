@@ -23,6 +23,7 @@ A secure and modern web-based Login and Registration System developed using PHP 
 
 ## Project Structure
 
+```text
 Log in Reg System/
 ├── config.php          # Database connection setup
 ├── index.php           # Main landing / Login page
@@ -31,16 +32,6 @@ Log in Reg System/
 ├── logout.php          # Session destruction and sign-out logic
 ├── style.css           # Styling for forms and dashboards
 └── script.js           # Frontend validation and dynamic UI enhancements
-
-
-## Core PHP Concepts Used
-
-- Procedural PHP
-- MySQLi Database Integration
-- Session Handling (session_start, $_SESSION)
-- Password Hashing and Security
-- Conditional Routing and Relational Logic
-- Form Data Handling ($_POST)
 
 ## Author
 
